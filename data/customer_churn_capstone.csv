@@ -1,0 +1,21 @@
+CustomerID,TenureMonths,MonthlyCharges,TotalCharges,ContractType,SupportTickets,Churn
+CUST-2001,4,75.50,302.00,Month-to-month,4,1
+CUST-2002,38,89.00,3382.00,Two year,0,0
+CUST-2003,14,68.20,954.80,One year,1,0
+CUST-2004,2,92.00,184.00,Month-to-month,5,1
+CUST-2005,52,104.50,5434.00,Two year,1,0
+CUST-2006,7,81.40,569.80,Month-to-month,3,1
+CUST-2007,26,74.00,1924.00,One year,0,0
+CUST-2008,60,98.00,5880.00,Two year,0,0
+CUST-2009,3,64.00,192.00,Month-to-month,4,1
+CUST-2010,19,70.50,1339.50,One year,2,0
+CUST-2011,5,88.00,440.00,Month-to-month,3,1
+CUST-2012,44,101.00,4444.00,Two year,1,0
+CUST-2013,16,66.00,1056.00,One year,1,0
+CUST-2014,1,95.00,95.00,Month-to-month,6,1
+CUST-2015,36,85.00,3060.00,Two year,0,0
+CUST-2016,9,79.50,715.50,Month-to-month,3,1
+CUST-2017,22,72.00,1584.00,One year,1,0
+CUST-2018,48,110.00,5280.00,Two year,0,0
+CUST-2019,6,83.00,498.00,Month-to-month,4,1
+CUST-2020,30,77.00,2310.00,One year,1,0
